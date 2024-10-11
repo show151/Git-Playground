@@ -4,6 +4,8 @@ import math
 
 
 # [機能B]@ボブ担当 ###############
+def func_B ():
+  print('func_B called.')
 
 
 # メイン処理 #####################
